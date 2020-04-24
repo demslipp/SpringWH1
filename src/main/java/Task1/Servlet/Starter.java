@@ -1,4 +1,4 @@
-package Task1;
+package Task1.Servlet;
 
 import Task1.Bean.Employee;
 import org.springframework.boot.SpringApplication;
